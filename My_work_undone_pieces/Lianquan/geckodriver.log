@@ -1,0 +1,95 @@
+1533549055925	geckodriver	INFO	geckodriver 0.20.1
+1533549055967	geckodriver	INFO	Listening on 127.0.0.1:56196
+1533549059030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Eeway\\AppData\\Local\\Temp\\rust_mozprofile.GTr7eM2kH4LX"
+1533549067323	Marionette	INFO	Listening on port 56204
+1533549067411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1533549067569	Marionette	DEBUG	[6442450945] Frame script loaded
+1533549067602	Marionette	DEBUG	[6442450945] Frame script registered
+1533549067863	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1533549068064	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1533549069355	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://gongyi.qq.com/succor/detail.htm?id=26816
+1533549070239	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://gongyi.qq.com/succor/detail.htm?id=26816
+1533549070871	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://gongyi.qq.com/succor/detail.htm?id=26816
+1533549071004	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://gongyi.qq.com/succor/detail.htm?id=26816
+1533549071006	Marionette	DEBUG	[6442450945] Received DOM event unload for http://gongyi.qq.com/succor/detail.htm?id=26816
+1533549071373	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://gongyi.qq.com/succor/detail.htm?id=15992
+1533549072530	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://gongyi.qq.com/succor/detail.htm?id=15992
+1533549073224	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://gongyi.qq.com/succor/detail.htm?id=15992
+1533549073316	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://gongyi.qq.com/succor/detail.htm?id=15992
+1533549073317	Marionette	DEBUG	[6442450945] Received DOM event unload for http://gongyi.qq.com/succor/detail.htm?id=15992
+1533549073683	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://gongyi.qq.com/succor/detail.htm?id=32625
+1533549074165	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://gongyi.qq.com/succor/detail.htm?id=32625
+1533549074870	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://gongyi.qq.com/succor/detail.htm?id=32625
+1533549074980	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://gongyi.qq.com/succor/detail.htm?id=32625
+1533549074981	Marionette	DEBUG	[6442450945] Received DOM event unload for http://gongyi.qq.com/succor/detail.htm?id=32625
+1533549075340	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://gongyi.qq.com/succor/detail.htm?id=32625
+1533549075674	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://gongyi.qq.com/succor/detail.htm?id=32625
+1533549076212	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://gongyi.qq.com/succor/detail.htm?id=32625
+1533549076260	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://gongyi.qq.com/succor/detail.htm?id=32625
+1533549076262	Marionette	DEBUG	[6442450945] Received DOM event unload for http://gongyi.qq.com/succor/detail.htm?id=32625
+1533549076580	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://gongyi.qq.com/succor/detail.htm?id=41750
+1533549077811	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://gongyi.qq.com/succor/detail.htm?id=41750
+1533549078385	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://gongyi.qq.com/succor/detail.htm?id=41750
+1533549078442	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://gongyi.qq.com/succor/detail.htm?id=41750
+1533549078444	Marionette	DEBUG	[6442450945] Received DOM event unload for http://gongyi.qq.com/succor/detail.htm?id=41750
+1533549078761	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://gongyi.qq.com/succor/detail.htm?id=15644
+JavaScript error: http://mat1.gtimg.com/gongyi/js/static/lib/jquery-1.8.3.min.js line 2 > eval, line 9: TypeError: vo is undefined
+1533549080683	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://gongyi.qq.com/succor/detail.htm?id=15644
+1533549081221	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://gongyi.qq.com/succor/detail.htm?id=15644
+1533549081274	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://gongyi.qq.com/succor/detail.htm?id=15644
+1533549081276	Marionette	DEBUG	[6442450945] Received DOM event unload for http://gongyi.qq.com/succor/detail.htm?id=15644
+1533549081589	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://gongyi.qq.com/succor/detail.htm?id=15272
+1533549082112	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://gongyi.qq.com/succor/detail.htm?id=15272
+1533549082601	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://gongyi.qq.com/succor/detail.htm?id=15272
+1533549082646	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://gongyi.qq.com/succor/detail.htm?id=15272
+1533549082647	Marionette	DEBUG	[6442450945] Received DOM event unload for http://gongyi.qq.com/succor/detail.htm?id=15272
+1533549082952	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://gongyi.qq.com/succor/detail.htm?id=28303
+1533549084546	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://gongyi.qq.com/succor/detail.htm?id=28303
+1533549085255	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://gongyi.qq.com/succor/detail.htm?id=28303
+1533549085310	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://gongyi.qq.com/succor/detail.htm?id=28303
+1533549085312	Marionette	DEBUG	[6442450945] Received DOM event unload for http://gongyi.qq.com/succor/detail.htm?id=28303
+1533549085629	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://gongyi.qq.com/succor/detail.htm?id=33856
+1533549086732	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://gongyi.qq.com/succor/detail.htm?id=33856
+1533549087221	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://gongyi.qq.com/succor/detail.htm?id=33856
+1533549087262	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://gongyi.qq.com/succor/detail.htm?id=33856
+1533549087263	Marionette	DEBUG	[6442450945] Received DOM event unload for http://gongyi.qq.com/succor/detail.htm?id=33856
+1533549087565	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://gongyi.qq.com/succor/detail.htm?id=19583
+1533549088207	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://gongyi.qq.com/succor/detail.htm?id=19583
+1533549088698	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://gongyi.qq.com/succor/detail.htm?id=19583
+1533549088745	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://gongyi.qq.com/succor/detail.htm?id=19583
+1533549088747	Marionette	DEBUG	[6442450945] Received DOM event unload for http://gongyi.qq.com/succor/detail.htm?id=19583
+1533549089059	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://gongyi.qq.com/succor/detail.htm?id=32629
+1533549091228	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://gongyi.qq.com/succor/detail.htm?id=32629
+1533549091710	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://gongyi.qq.com/succor/detail.htm?id=32629
+1533549091761	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://gongyi.qq.com/succor/detail.htm?id=32629
+1533549091762	Marionette	DEBUG	[6442450945] Received DOM event unload for http://gongyi.qq.com/succor/detail.htm?id=32629
+1533549092130	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://gongyi.qq.com/succor/detail.htm?id=16018
+1533549092804	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://gongyi.qq.com/succor/detail.htm?id=16018
+1533549093273	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://gongyi.qq.com/succor/detail.htm?id=16018
+1533549093320	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://gongyi.qq.com/succor/detail.htm?id=16018
+1533549093321	Marionette	DEBUG	[6442450945] Received DOM event unload for http://gongyi.qq.com/succor/detail.htm?id=16018
+1533549093736	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://gongyi.qq.com/succor/detail.htm?id=27578
+JavaScript error: http://mat1.gtimg.com/gongyi/js/static/lib/jquery-1.8.3.min.js line 2 > eval, line 9: TypeError: vo is undefined
+1533549095219	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://gongyi.qq.com/succor/detail.htm?id=27578
+1533549095795	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://gongyi.qq.com/succor/detail.htm?id=27578
+1533549095884	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://gongyi.qq.com/succor/detail.htm?id=27578
+1533549095887	Marionette	DEBUG	[6442450945] Received DOM event unload for http://gongyi.qq.com/succor/detail.htm?id=27578
+1533549096228	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://gongyi.qq.com/succor/detail.htm?id=41612
+1533549096866	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://gongyi.qq.com/succor/detail.htm?id=41612
+1533549097368	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://gongyi.qq.com/succor/detail.htm?id=41612
+1533549097409	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://gongyi.qq.com/succor/detail.htm?id=41612
+1533549097410	Marionette	DEBUG	[6442450945] Received DOM event unload for http://gongyi.qq.com/succor/detail.htm?id=41612
+1533549097708	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://gongyi.qq.com/succor/detail.htm?id=200102
+1533549098213	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://gongyi.qq.com/succor/detail.htm?id=200102
+1533549098672	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://gongyi.qq.com/succor/detail.htm?id=200102
+1533549098746	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://gongyi.qq.com/succor/detail.htm?id=200102
+1533549098749	Marionette	DEBUG	[6442450945] Received DOM event unload for http://gongyi.qq.com/succor/detail.htm?id=200102
+1533549099137	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://gongyi.qq.com/succor/detail.htm?id=41420
+1533549099913	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://gongyi.qq.com/succor/detail.htm?id=41420
+[Parent 2504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10328, Chrome_C[Parent 2504, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1533549110006	Marionette	INFO	Stopped listening on port 56204
+[GPU 11332, Chrome_ChildThread] WARNING: pipe erro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
