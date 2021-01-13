@@ -77,11 +77,18 @@ def FMM001_whole_mask_tag_H1_HEX(target_string,shift_num=17):
     FMM001_margin_string=''.join(FMM001_margin_string)
     return FMM001_margin_string
 
+
+# coversion to pbkdf2：sha256
+def FMM001_whole_mask_tag_H1_HAS(target_string,method_parm="pbkdf2:sha256",salt_length_parm=8):
+    FMM001_margin_string=generate_password_hash(target_string,method=method_parm,salt_length=salt_length_parm)[18:]
+    return FMM001_margin_string
+
     
 #Middle set
 Masking_theory={"C0_ALL":FMM001_whole_mask_tag_C0_ALL,
                 "C1_SFZ":FMM001_whole_mask_tag_C1_SFZ,
-                "H1_HEX":FMM001_whole_mask_tag_H1_HEX
+                "H1_HEX":FMM001_whole_mask_tag_H1_HEX,
+                "H1_HAS":FMM001_whole_mask_tag_H1_HAS
                 }
         
 def FMF001_file_wrtie(source_file,target_file,policy_dict,Masking_theory,spliter):
